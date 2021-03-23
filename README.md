@@ -1,2 +1,2 @@
 # Study-notes-
-自己学习python的笔记。
+学习python的笔记。
